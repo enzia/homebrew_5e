@@ -4,6 +4,8 @@ You can use a bonus action to temporarily inebriate nearby foes, causing them to
 
 _**Amplify**_ The curse can affect a creature regardless of its size, and a creature that fails its saving throw takes additional poison damage equal to two rolls of your hemocraft die.
 
+<br>
+
 ### Blood Curse of Rapid Lethargy
 ___
 You can use a bonus action to afflict a creature you can see within 90 feet of you with a sudden
@@ -12,6 +14,8 @@ only that creature.
 
 _**Amplify.**_ You can target an additional creature you can see within 20 feet of the first target
 when casting _sleep_. When casting _sleep_ this way, you do not subtract from the total rolled for for each of its targets.
+
+<br>
 
 ### Blood Curse of Instilled Doubt
 ___
@@ -22,11 +26,15 @@ to this curse if it has immunity to psychic damage.
 
 _**Amplify.**_ The creature takes psychic damage equal to one roll of your hemocraft die each time it misses with an attack.
 
+<br>
+
 ### Blood Curse of Stolen Fate
 ___
 When a creature you can see within 30 feet of you is about to roll a d20 with advantage, you can use your reaction to prevent the roll from being affected by advantage. You have advantage on the next attack roll, ability check, or saving throw you make until the end of your next turn.
 
 _**Amplify.**_ The target subtracts one roll of your hemocraft die from its roll.
+
+<br>
 
 ### Blood Curse of Open Wounds
 ___
