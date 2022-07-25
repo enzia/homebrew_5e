@@ -8,21 +8,15 @@ _**Amplify**_ The curse can affect a creature regardless of its size, and a crea
 
 ### Blood Curse of Rapid Lethargy
 ___
-You can use a bonus action to afflict a creature you can see within 90 feet of you with a sudden
-onset of drowsiness. You cast the _sleep_ spell, requiring no components, but targeting
-only that creature.
+You can use a bonus action to afflict a creature you can see within 90 feet of you with a sudden onset of drowsiness. You cast the _sleep_ spell, requiring no components, but targeting only that creature.
 
-_**Amplify.**_ You can target an additional creature you can see within 20 feet of the first target
-when casting _sleep_. When casting _sleep_ this way, you do not subtract from the total rolled for for each of its targets.
+_**Amplify.**_ You can target an additional creature you can see within 20 feet of the first target when casting _sleep_. When casting _sleep_ this way, you do not subtract from the total rolled for for each of its targets.
 
 <br>
 
 ### Blood Curse of Instilled Doubt
 ___
-When a creature within 30 feet of you misses you with an attack, you can use
-your reaction to temporarily instill doubt within the creature's mind, causing its
-attacks to have disadvantage until the end of its next turn. A creature is immune
-to this curse if it has immunity to psychic damage.
+When a creature within 30 feet of you misses you with an attack, you can use your reaction to temporarily instill doubt within the creature's mind, causing its attacks to have disadvantage until the end of its next turn. A creature is immune to this curse if it has immunity to psychic damage.
 
 _**Amplify.**_ The creature takes psychic damage equal to one roll of your hemocraft die each time it misses with an attack.
 
